@@ -37,7 +37,7 @@ Deploy
 </a>
 
 <a href="https://azuredeploy.net/
-   repository=https://github.com/kloudynetklassrooms/iac/tree/master/sql-alwayson/azuredeploy.json"
+   repository=https://github.com/kloudynetklassrooms/iac/tree/master/sql-alwayson"
    target="_blank">
    <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
