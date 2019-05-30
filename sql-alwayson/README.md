@@ -32,7 +32,7 @@ Some items that still need work. Feel free to contribute back:
 Deploy
 ------
 
-<a href="https://transmogrify.azurewebsites.net/sql-alwayson/azuredeploy.json" target="_blank">
+<a href="https://raw.githubusercontent.com/kloudynetklassrooms/iac/master/sql-alwayson/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
